@@ -1,0 +1,18 @@
+# Eclipse project file #
+########################
+.project
+.settings
+.classpath
+.metadata
+
+# IDEA project file #
+#####################
+.idea
+*.ids
+*.iml
+*.iws
+*.ipr
+
+# Maven generated files #
+#########################
+target
